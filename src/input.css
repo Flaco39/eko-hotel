@@ -4,61 +4,62 @@
 
 .com{
     @apply p-1 ml-[19rem] bg-[rgb(205,162,117)] text-white font-bold text-[15px]
-}
+} 
 .hchild1{
     @apply flex justify-between  pt-4 pb-1 w-[100%]
-}
+} 
 .subhchild{
     @apply flex gap-8 items-center
-}
+} 
 .header{
     @apply   w-[100%] 
-}
+} 
 .logo{
     @apply w-[260px] h-[85px] rounded-md bg-[url('../public/images/eko-hotel.jpg')] bg-cover bg-center
-}
+} 
 .hchild2{
     @apply flex  justify-center items-center border-[1px] border-zinc-300 w-[100%] sticky top-0
-}
+} 
 .hlinks{
-    @apply flex gap-8 hover:text-[rgb(205,162,117)]
-}
+    @apply flex gap-8
+} 
 .headchild{
     @apply w-[100%]
-}
+} 
 .save{
     @apply flex  justify-between items-center gap-[8rem]
-}
+} 
 .pikin1{
     @apply flex ml-[8.5rem]
-}
+} 
 .banner1{
     @apply bg-[url('../public/images/eko1.jpg')] bg-cover bg-center h-[78vh] w-[100%]
-}
+} 
 .banner2{
     @apply bg-[rgb(4,48,64)] h-[283px] w-[100%] flex justify-center items-center flex-col p-[50px]
-}
+} 
 .content{
     @apply flex flex-col w-[310px] text-[12px] font-semibold text-center
-}
+} 
 .sub2banchild{
     @apply flex gap-[2rem] text-[rgb(144,126,101)] justify-center items-center
-}
+} 
 .arr{
-    @apply text-[26px] text-[rgb(52,70,77)]
-}
+    @apply text-[26px] text-text
+} 
 .ava{
-    @apply p-[12px]  c text-white font-bold text-[15px] hover:text-[black] cursor-pointer
-}
+    @apply p-[12px]  bg-background text-white font-bold text-[15px] hover:text-[black] cursor-pointer
+} 
 .cho{
     @apply text-[white] text-[26px] cursor-pointer
-}
+} 
 .ban22child{
     @apply flex justify-center items-center
-}
+} 
 .ban2child{
     @apply h-[127px] w-[1240px]
-}
-.hov{
-    @apply 
-}
+} 
+
+.banner3{
+    @apply h-[100vh] w-[100%] bg-background
+} 

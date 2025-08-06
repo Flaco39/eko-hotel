@@ -609,10 +609,6 @@ video {
   gap: 2rem;
 }
 
-.hlinks:hover {
-  color: ;
-}
-
 .headchild {
   width: 100%;
 }
@@ -706,3 +702,10 @@ video {
   height: 127px;
   width: 1240px;
 }
+
+.banner3 {
+  height: 100vh;
+  width: 100%;
+  --tw-bg-opacity: 1;
+  background-color: rgb(205 162 117 / var(--tw-bg-opacity, 1));
+} 
