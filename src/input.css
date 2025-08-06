@@ -59,7 +59,25 @@
 .ban2child{
     @apply h-[127px] w-[1240px]
 } 
+.line{
+    @apply h-1 w-[100%] bg-teal-400
+}
 
 .banner3{
-    @apply h-[100vh] w-[100%] bg-background
+    @apply h-[100vh] w-[100%] bg-background flex justify-center p-[60px]
 } 
+.fir3{
+    @apply h-[138px] w-[1270px] bg-text
+}
+.f3d1{
+    @apply text-white flex gap-[1rem] justify-center items-center text-[40px] font-bold
+}
+.f3d2{
+    @apply flex flex-col
+}
+.our{
+    @apply text-our
+}
+.line{
+    @apply w-[50px] h-[1px] bg-white
+}

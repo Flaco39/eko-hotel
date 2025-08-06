@@ -5,7 +5,8 @@ export default {
      extend: {
       colors:{
         text:"rgb(52,70,77)",
-        background:"rgb(205,162,117)"
+        background:"rgb(205,162,117)",
+        our:"rgb(4,48,64)"
       }
      },
    },
